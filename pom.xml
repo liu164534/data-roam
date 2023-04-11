@@ -7,6 +7,10 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <!--<module>data-roam</module>-->
+    <module>data-common</module>
+    <module>data-message</module>
+    <module>data-gateway</module>
+    <module>data-manage</module>
   </modules>
 
   <!-- 父项目指定打包方式 -->
